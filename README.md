@@ -1,0 +1,2 @@
+# cyclistic-bike-share-analysis
+Cyclistic is a bike share Company in Chicago. It has two types of members, the casual riders who purchase single ride or full-day passes and the cyclistic members who purchase the annual memberships. They rent bikes for daily use, they can unlock bike from one station and return it to another station. The purpose of this study is convert casual riders into annual members.
